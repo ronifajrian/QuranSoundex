@@ -1,0 +1,772 @@
+1,Al-Fatihah,1,Bismillahir rahmanir rahiim
+1,Al-Fatihah,2,Al-hamdu lillahi rabbil 'aalamiin
+1,Al-Fatihah,3,Ar-rahmanir-rahiim
+1,Al-Fatihah,4,Maaliki yaumiddiin
+1,Al-Fatihah,5,Ii-yaaka na'budu wa-ii-yaaka nasta'iin
+1,Al-Fatihah,6,Ihdinaash-shiraathal mustaqiim
+1,Al-Fatihah,7,Shiraathal-ladziina an'amta 'alaihim ghairil maghdhuubi 'alaihim walaadh-dhaalliin
+2,Al-Baqarah,1,Alif laam miim
+2,Al-Baqarah,2,Dzalikal kitaabu laa raiba fiihi hudal(n)-lilmuttaqiin(a)
+2,Al-Baqarah,3,Al-ladziina yu'minuuna bilghaibi wayuqiimuunash-shalaata wamimmaa razaqnaahum yunfiquun
+2,Al-Baqarah,4,Waal-ladziina yu'minuuna bimaa unzila ilaika wamaa unzila min qablika wa bil aakhirati hum yuuqinuun
+2,Al-Baqarah,5,Uula-ika 'ala hudam(n) mir(n) rabbihim wa-uula-ika humul muflihuun
+2,Al-Baqarah,6,Innal-ladziina kafaruu sawaa-un 'alaihim a-andzartahum am lam tundzirhum laa yu'minuun
+2,Al-Baqarah,7,Khatamallahu 'ala quluubihim wa'ala sam'ihim wa'ala abshaarihim ghisyaawatun walahum 'adzaabun 'azhiim
+2,Al-Baqarah,8,Waminannaasi man yaquulu aamannaa billahi wa bil yaumi-aakhiri wamaa hum bimu'miniin
+2,Al-Baqarah,9,Yukhaadi'uunallaha waal-ladziina aamanuu wamaa yakhda'uuna ilaa anfusahum wamaa yasy'uruun
+2,Al-Baqarah,10,Fii quluubihim maradhun fazaadahumullahu maradhan walahum 'adzaabun aliimun bimaa kaanuu yakdzibuun
+2,Al-Baqarah,11,Wa-idzaa qiila lahum laa tufsiduu fiil ardhi qaaluuu innamaa nahnu mushlihuun
+2,Al-Baqarah,12,Alaa innahum humul mufsiduuna walakil(n) laa yasy'uruun
+2,Al-Baqarah,13,Wa-idzaa qiila lahum aaminuu kamaa aamanan-naasu qaaluuu anu'minu kamaa aamanas-sufahaa-u alaa innahum humus-sufahaa-u walakil(n) laa ya'lamuun
+2,Al-Baqarah,14,Wa-idzaa laquul-ladziina aamanuu qaaluuu aamannaa wa-idzaa khalau ila syayaathiinihim qaaluuu innaa ma'akum innamaa nahnu mustahzi-uun
+2,Al-Baqarah,15,Allahu yastahzi-u bihim wayamudduhum fii thughyaanihim ya'mahuun
+2,Al-Baqarah,16,Uula-ikal-ladziinaasy-tarawuudh-dhalaalata bil huda famaa rabihat tijaaratuhum wamaa kaanuu muhtadiin
+2,Al-Baqarah,17,Matsaluhum kamatsalil-ladziiistauqada naaran falammaa adhaa-at maa haulahu dzahaballahu binuurihim watarakahum fii zhulumaatil(n) laa yubshiruun
+2,Al-Baqarah,18,Shummun bukmun 'umyun fahum laa yarji'uun
+2,Al-Baqarah,19,Au kashai-yibin minassamaa-i fiihi zhulumaatun wara'dun wabarqun yaj'aluuna ashaabi'ahum fii aadzaanihim minash-shawaa'iqi hadzaral mauti wallahu muhiithun bil kaafiriin
+2,Al-Baqarah,20,Yakaadul barqu yakhthafu abshaarahum kullamaa adhaa-a lahum masyau fiihi wa-idzaa azhlama 'alaihim qaamuu walau syaa-allahu ladzahaba bisam'ihim waabshaarihim innallaha 'ala kulli syai-in qadiirun
+2,Al-Baqarah,21,Yaa ai-yuhaannaasuu'buduu rabbakumul-ladzii khalaqakum waal-ladziina min qablikum la'allakum tattaquun
+2,Al-Baqarah,22,Al-ladzii ja'ala lakumul ardha firaasyan wassamaa-a binaa-an wa-anzala minassamaa-i maa-an faakhraja bihi minats-tsamaraati rizqan lakum falaa taj'aluu lillahi andaadan wa-antum ta'lamuun
+2,Al-Baqarah,23,Wa-in kuntum fii raibin mimmaa nazzalnaa 'ala 'abdinaa fa'tuu bisuuratin min mitslihi waad'uu syuhadaa-akum min duunillahi in kuntum shaadiqiin
+2,Al-Baqarah,24,Fa-in lam taf'aluu walan taf'aluu faattaquun-naarallatii waquuduhaan-naasu wal hijaaratu u'iddat lilkaafiriin
+2,Al-Baqarah,25,Wabasy-syiril-ladziina aamanuu wa'amiluush-shaalihaati anna lahum jannaatin tajrii min tahtihaal anhaaru kullamaa ruziquu minhaa min tsamaratin rizqan qaaluuu hadzaal-ladzii ruziqnaa min qablu wautuu bihi mutasyaabihan walahum fiihaa azwaajun muthahharatun wahum fiihaa khaaliduun
+2,Al-Baqarah,26,Innallaha laa yastahyii an yadhriba matsalaa maa ba'uudhatan famaa fauqahaa faammaal-ladziina aamanuu faya'lamuuna annahul haqqu min rabbihim waammaal-ladziina kafaruu fayaquuluuna maadzaa araadallahu bihadzaa matsalaa yudhillu bihi katsiiran wayahdii bihi katsiiran wamaa yudhillu bihi ilaal faasiqiin
+2,Al-Baqarah,27,Al-ladziina yanqudhuuna 'ahdallahi min ba'di miitsaaqihi wayaqtha'uuna maa amarallahu bihi an yuushala wayufsiduuna fiil ardhi uula-ika humul khaasiruun
+2,Al-Baqarah,28,Kaifa takfuruuna billahi wakuntum amwaatan faahyaakum tsumma yumiitukum tsumma yuhyiikum tsumma ilaihi turja'uun
+2,Al-Baqarah,29,Huwal-ladzii khalaqa lakum maa fiil ardhi jamii'an tsummaastawa ilassamaa-i fasau-waahunna sab'a samaawaatin wahuwa bikulli syai-in 'aliimun
+2,Al-Baqarah,30,Wa-idz qaala rabbuka lilmalaa-ikati innii jaa'ilun fiil ardhi khaliifatan qaaluuu ataj'alu fiihaa man yufsidu fiihaa wayasfikuddimaa-a wanahnu nusabbihu bihamdika wanuqaddisu laka qaala innii a'lamu maa laa ta'lamuun
+2,Al-Baqarah,31,Wa'allama aadamal asmaa-a kullahaa tsumma 'aradhahum 'alal malaa-ikati faqaala anbi-uunii biasmaa-i ha'ulaa-i in kuntum shaadiqiin
+2,Al-Baqarah,32,Qaaluuu subhaanaka laa 'ilma lanaa ilaa maa 'allamtanaa innaka antal 'aliimul hakiim
+2,Al-Baqarah,33,Qaala yaa aadamu anbi'hum biasmaa-ihim falammaa anbaahum biasmaa-ihim qaala alam aqul lakum innii a'lamu ghaibas-samaawaati wal ardhi waa'lamu maa tubduuna wamaa kuntum taktumuun
+2,Al-Baqarah,34,Wa-idz qulnaa lilmalaa-ikatiisjuduu li-aadama fasajaduu ilaa ibliisa aba waastakbara wakaana minal kaafiriin
+2,Al-Baqarah,35,Waqulnaa yaa aadamuuskun anta wazaujukal jannata wakulaa minhaa raghadan haitsu syi'tumaa walaa taqrabaa hadzihisy-syajarata fatakuunaa minazh-zhaalimiin
+2,Al-Baqarah,36,Faazallahumaasy-syaithaanu 'anhaa faakhrajahumaa mimmaa kaanaa fiihi waqulnaa ihbithuu ba'dhukum liba'dhin 'aduu-wun walakum fiil ardhi mustaqarrun wamataa'un ila hiinin
+2,Al-Baqarah,37,Fatalaqqa aadamu min rabbihi kalimaatin fataaba 'alaihi innahu huwattau-waabur-rahiim
+2,Al-Baqarah,38,Qulnaa ihbithuu minhaa jamii'an faimmaa ya'tiyannakum minnii hudan faman tabi'a hudaaya falaa khaufun 'alaihim walaa hum yahzanuun
+2,Al-Baqarah,39,Waal-ladziina kafaruu wakadz-dzabuu biaayaatinaa uula-ika ashhaabunnaari hum fiihaa khaaliduun
+2,Al-Baqarah,40,Yaa banii israa-iilaadzkuruu ni'matiyallatii an'amtu 'alaikum wa-aufuu bi'ahdii uufi bi'ahdikum waii-yaaya faarhabuun
+2,Al-Baqarah,41,Waaaminuu bimaa anzaltu mushaddiqan limaa ma'akum walaa takuunuu au-wala kaafirin bihi walaa tasytaruu biaayaatii tsamanan qaliilaa waii-yaaya faattaquun
+2,Al-Baqarah,42,Walaa talbisuul haqqa bil baathili wataktumuul haqqa wa-antum ta'lamuun
+2,Al-Baqarah,43,Waaqiimuush-shalaata waaatuuzzakaata waarka'uu ma'arraaki'iin
+2,Al-Baqarah,44,Ata'muruunannaasa bil birri watansauna anfusakum wa-antum tatluunal kitaaba afalaa ta'qiluun
+2,Al-Baqarah,45,Waasta'iinuu bish-shabri wash-shalaati wa-innahaa lakabiiratun ilaa 'alal khaasyi'iin
+2,Al-Baqarah,46,Al-ladziina yazhunnuuna annahum mulaaquu rabbihim wa-antum ilaihi raaji'uun
+2,Al-Baqarah,47,Yaa banii israa-iilaadzkuruu ni'matiyallatii an'amtu 'alaikum wa-annii fadh-dhaltukum 'alal 'aalamiin
+2,Al-Baqarah,48,Waattaquu yauman laa tajzii nafsun 'an nafsin syai-an walaa yuqbalu minhaa syafaa'atun walaa yu'khadzu minhaa 'adlun walaa hum yunsharuun
+2,Al-Baqarah,49,Wa-idz najjainaakum min aali fir'auna yasuumuunakum suu-al 'adzaabi yudzabbihuuna abnaa-akum wayastahyuuna nisaa-akum wafii dzalikum balaa-un min rabbikum 'azhiimun
+2,Al-Baqarah,50,Wa-idz faraqnaa bikumul bahra fa-anjainaakum waaghraqnaa aala fir'auna wa-antum tanzhuruun
+2,Al-Baqarah,51,Wa-idz waa'adnaa muusa arba'iina lailatan tsummaat-takhadztumul 'ijla min ba'dihi wa-antum zhaalimuun
+2,Al-Baqarah,52,Tsumma 'afaunaa 'ankum min ba'di dzalika la'allakum tasykuruun
+2,Al-Baqarah,53,Wa-idz aatainaa muusal kitaaba wal furqaana la'allakum tahtaduun
+2,Al-Baqarah,54,Wa-idz qaala muusa liqaumihi yaa qaumi innakum zhalamtum anfusakum biittikhaadzikumul 'ijla fatuubuu ila baari-ikum faaqtuluu anfusakum dzalikum khairun lakum 'inda baari-ikum fataaba 'alaikum innahu huwattau-waabur-rahiim
+2,Al-Baqarah,55,Wa-idz qultum yaa muusa lan nu'mina laka hatta narallaha jahratan faakhadzatkumush-shaa'iqatu wa-antum tanzhuruun
+2,Al-Baqarah,56,Tsumma ba'atsnaakum min ba'di mautikum la'allakum tasykuruun
+2,Al-Baqarah,57,Wazhallalnaa 'alaikumul ghamaama wa-anzalnaa 'alaikumul manna wassalwa kuluu min thai-yibaati maa razaqnaakum wamaa zhalamuunaa walakin kaanuu anfusahum yazhlimuun
+2,Al-Baqarah,58,Wa-idz qulnaaadkhuluu hadzihil qaryata fakuluu minhaa haitsu syi'tum raghadan waadkhuluul baaba sujjadan waquuluu hith-thatun naghfir lakum khathaayaakum wasanaziidul muhsiniin
+2,Al-Baqarah,59,Fabaddalal-ladziina zhalamuu qaulaa ghairal-ladzii qiila lahum fa-anzalnaa 'alaal-ladziina zhalamuu rijzan minassamaa-i bimaa kaanuu yafsuquun
+2,Al-Baqarah,60,Wa-idziistasqa muusa liqaumihi faqulnaaadhrib bi'ashaakal hajara faanfajarat minhuutsnataa 'asyrata 'ainan qad 'alima kullu unaasin masyrabahum kuluu waasyrabuu min rizqillahi walaa ta' tsau fiil ardhi mufsidiin
+2,Al-Baqarah,61,Wa-idz qultum yaa muusa lan nashbira 'ala tha'aamin waahidin faad'u lanaa rabbaka yukhrij lanaa mimmaa tunbitul ardhu min baqlihaa waqits-tsaa-ihaa wafuumihaa wa'adasihaa wabashalihaa qaala atastabdiluunal-ladzii huwa adna biil-ladzii huwa khairun ihbithuu mishran fa-inna lakum maa saaltum wadhuribat 'alaihimudz-dzillatu wal maskanatu wabaa-uu bighadhabin minallahi dzalika biannahum kaanuu yakfuruuna biaayaatillahi wayaqtuluunannabii-yiina bighairil haqqi dzalika bimaa 'ashau wakaanuu ya'taduun
+2,Al-Baqarah,62,Innal-ladziina aamanuu waal-ladziina haaduu wannashaara wash-shaabi-iina man aamana billahi wal yaumi-aakhiri wa'amila shaalihan falahum ajruhum 'inda rabbihim walaa khaufun 'alaihim walaa hum yahzanuun
+2,Al-Baqarah,63,Wa-idz akhadznaa miitsaaqakum warafa'naa fauqakumuth-thuura khudzuu maa aatainaakum biquu-watin waadzkuruu maa fiihi la'allakum tattaquun
+2,Al-Baqarah,64,Tsumma tawallaitum min ba'di dzalika falaulaa fadhlullahi 'alaikum warahmatuhu lakuntum minal khaasiriin
+2,Al-Baqarah,65,Walaqad 'alimtumul-ladziina-a'tadau minkum fiissabti faqulnaa lahum kuunuu qiradatan khaasi-iin
+2,Al-Baqarah,66,Faja'alnaahaa nakaaalan limaa baina yadaihaa wamaa khalfahaa wamau'izhatal(n)-lilmuttaqiin
+2,Al-Baqarah,67,Wa-idz qaala muusa liqaumihi innallaha ya'murukum an tadzbahuu baqaratan qaaluuu atattakhidzunaa huzuwan qaala a'uudzu billahi an akuuna minal jaahiliin
+2,Al-Baqarah,68,Qaaluuuud'u lanaa rabbaka yubai-yin lanaa maa hiya qaala innahu yaquulu innahaa baqaratun laa faaridhun walaa bikrun 'awaanun baina dzalika faaf'aluu maa tu'maruun
+2,Al-Baqarah,69,Qaaluuuud'u lanaa rabbaka yubai-yin lanaa maa launuhaa qaala innahu yaquulu innahaa baqaratun shafraa-u faaqi'un launuhaa tasurrunnaazhiriin
+2,Al-Baqarah,70,Qaaluuuud'u lanaa rabbaka yubai-yin lanaa maa hiya innal baqara tasyaabaha 'alainaa wa-innaa in syaa-allahu lamuhtaduun
+2,Al-Baqarah,71,Qaala innahu yaquulu innahaa baqaratun laa dzaluulun tutsiirul ardha walaa tasqiil hartsa musallamatun laa syiyata fiihaa qaaluuuaana ji'ta bil haqqi fadzabahuuhaa wamaa kaaduu yaf'aluun
+2,Al-Baqarah,72,Wa-idz qataltum nafsan faaddaara'tum fiihaa wallahu mukhrijun maa kuntum taktumuun
+2,Al-Baqarah,73,Faqulnaaadhribuuhu biba'dhihaa kadzalika yuhyiillahul mauta wayuriikum aayaatihi la'allakum ta'qiluun
+2,Al-Baqarah,74,Tsumma qasat quluubukum min ba'di dzalika fahiya kal hijaarati au asyaddu qaswatan wa-inna minal hijaarati lamaa yatafajjaru minhul anhaaru wa-inna minhaa lamaa yasy-syaqqaqu fayakhruju minhul maa-u wa-inna minhaa lamaa yahbithu min khasyyatillahi wamaallahu bighaafilin 'ammaa ta'maluun
+2,Al-Baqarah,75,Afatathma'uuna an yu'minuu lakum waqad kaana fariiqun minhum yasma'uuna kalaamallahi tsumma yuharrifuunahu min ba'di maa 'aqaluuhu wahum ya'lamuun
+2,Al-Baqarah,76,Wa-idzaa laquul-ladziina aamanuu qaaluuu aamannaa wa-idzaa khalaa ba'dhuhum ila ba'dhin qaaluuu atuhadditsuunahum bimaa fatahallahu 'alaikum liyuhaajjuukum bihi 'inda rabbikum afalaa ta'qiluun
+2,Al-Baqarah,77,Awalaa ya'lamuuna annallaha ya'lamu maa yusirruuna wamaa yu'linuun
+2,Al-Baqarah,78,Waminhum ummii-yuuna laa ya'lamuunal kitaaba ilaa amaanii-ya wa-in hum ilaa yazhunnuun
+2,Al-Baqarah,79,Fawailul(n)-lil-ladziina yaktubuunal kitaaba biaidiihim tsumma yaquuluuna hadzaa min 'indillahi liyasytaruu bihi tsamanan qaliilaa fawailun lahum mimmaa katabat aidiihim wawailun lahum mimmaa yaksibuun
+2,Al-Baqarah,80,Waqaaluuu lan tamassanaannaaru ilaa ai-yaaman ma'duudatan qul attakhadztum 'indallahi 'ahdan falan yukhlifallahu 'ahdahu am taquuluuna 'alallahi maa laa ta'lamuun
+2,Al-Baqarah,81,Bala man kasaba sai-yi-atan waahaathat bihi khathii-atuhu fa-uula-ika ashhaabunnaari hum fiihaa khaaliduun
+2,Al-Baqarah,82,Waal-ladziina aamanuu wa'amiluush-shaalihaati uula-ika ashhaabul jannati hum fiihaa khaaliduun
+2,Al-Baqarah,83,Wa-idz akhadznaa miitsaaqa banii israa-iila laa ta'buduuna ilaallaha wa bil waalidaini ihsaanan wadziil qurba wal yataama wal masaakiini waquuluu li-nnaasi husnan waaqiimuush-shalaata waaatuuzzakaata tsumma tawallaitum ilaa qaliilaa minkum wa-antum mu'ridhuun
+2,Al-Baqarah,84,Wa-idz akhadznaa miitsaaqakum laa tasfikuuna dimaa-akum walaa tukhrijuuna anfusakum min diyaarikum tsumma aqrartum wa-antum tasyhaduun
+2,Al-Baqarah,85,Tsumma antum ha'ulaa-i taqtuluuna anfusakum watukhrijuuna fariiqan minkum min diyaarihim tazhaaharuuna 'alaihim bil-itsmi wal 'udwaani wa-in ya'tuukum usaara tufaaduuhum wahuwa muharramun 'alaikum ikhraajuhum afatu'minuuna biba'dhil kitaabi watakfuruuna biba'dhin famaa jazaa-u man yaf'alu dzalika minkum ilaa khizyun fiil hayaatiddunyaa wayaumal qiyaamati yuradduuna ila asyaddil 'adzaabi wamaallahu bighaafilin 'ammaa ta'maluun
+2,Al-Baqarah,86,Uula-ikal-ladziinaasy-tarawuul hayaataddunyaa bil-aakhirati falaa yukhaffafu 'anhumul 'adzaabu walaa hum yunsharuun
+2,Al-Baqarah,87,Walaqad aatainaa muusal kitaaba waqaffa-inaa min ba'dihi birrusuli waaatainaa 'iisaabna maryamal bai-yinaati wa-ai-yadnaahu biruuhil qudusi afakullamaa jaa-akum rasuulun bimaa laa tahwa anfusukumuus-takbartum fafariiqan kadz-dzabtum wafariiqan taqtuluun
+2,Al-Baqarah,88,Waqaaluuu quluubunaa ghulfun bal la'anahumullahu bikufrihim faqaliilaa maa yu'minuun
+2,Al-Baqarah,89,Walammaa jaa-ahum kitaabun min 'indillahi mushaddiqun limaa ma'ahum wakaanuu min qablu yastaftihuuna 'alaal-ladziina kafaruu falammaa jaa-ahum maa 'arafuu kafaruu bihi fala'natullahi 'alal kaafiriin
+2,Al-Baqarah,90,Bi'samaaasytarau bihi anfusahum an yakfuruu bimaa anzalallahu baghyan an yunazzilallahu min fadhlihi 'ala man yasyaa-u min 'ibaadihi fabaa-uu bighadhabin 'ala ghadhabin walilkaafiriina 'adzaabun muhiinun
+2,Al-Baqarah,91,Wa-idzaa qiila lahum aaminuu bimaa anzalallahu qaaluuu nu'minu bimaa unzila 'alainaa wayakfuruuna bimaa waraa-ahu wahuwal haqqu mushaddiqan limaa ma'ahum qul falima taqtuluuna anbiyaa-allahi min qablu in kuntum mu'miniin
+2,Al-Baqarah,92,Walaqad jaa-akum muusa bil bai-yinaati tsummaat-takhadztumul 'ijla min ba'dihi wa-antum zhaalimuun
+2,Al-Baqarah,93,Wa-idz akhadznaa miitsaaqakum warafa'naa fauqakumuth-thuura khudzuu maa aatainaakum biquu-watin waasma'uu qaaluuu sami'naa wa'ashainaa wausyribuu fii quluubihimul 'ijla bikufrihim qul bi'samaa ya'murukum bihi iimaanukum in kuntum mu'miniin
+2,Al-Baqarah,94,Qul in kaanat lakumuddaaru-aakhiratu 'indallahi khaalishatan min duuninnaasi fatamannawuul mauta in kuntum shaadiqiin
+2,Al-Baqarah,95,Walan yatamannauhu abadan bimaa qaddamat aidiihim wallahu 'aliimun bizh-zhaalimiin
+2,Al-Baqarah,96,Walatajidannahum ahrashannaasi 'ala hayaatin waminal-ladziina asyrakuu yawaddu ahaduhum lau yu'ammaru alfa sanatin wamaa huwa bimuzahzihihi minal 'adzaabi an yu'ammara wallahu bashiirun bimaa ya'maluun
+2,Al-Baqarah,97,Qul man kaana 'aduu-wan lijibriila fa-innahu nazzalahu 'ala qalbika biidznillahi mushaddiqan limaa baina yadaihi wahudan wabusyra lilmu'miniin
+2,Al-Baqarah,98,Man kaana 'aduu-wal(n)-lillahi wamalaa-ikatihi warusulihi wajibriila wamiikaala fa-innallaha 'aduu-wul(n)-lilkaafiriin
+2,Al-Baqarah,99,Walaqad anzalnaa ilaika aayaatin bai-yinaatin wamaa yakfuru bihaa ilaal faasiquun
+2,Al-Baqarah,100,Awakullamaa 'aahaduu 'ahdan nabadzahu fariiqun minhum bal aktsaruhum laa yu'minuun
+2,Al-Baqarah,101,Walammaa jaa-ahum rasuulun min 'indillahi mushaddiqun limaa ma'ahum nabadza fariiqun minal-ladziina uutuul kitaaba kitaaballahi waraa-a zhuhuurihim kaannahum laa ya'lamuun
+2,Al-Baqarah,102,Waattaba'uu maa tatluusy-syayaathiinu 'ala mulki sulaimaana wamaa kafara sulaimaanu walakinnasy-syayaathiina kafaruu yu'allimuunan-naasassihra wamaa unzila 'alal malakaini bibaabila haaruuta wamaaruuta wamaa yu'allimaani min ahadin hatta yaquulaa innamaa nahnu fitnatun falaa takfur fayata'allamuuna minhumaa maa yufarriquuna bihi bainal mar-i wazaujihi wamaa hum bidhaarriina bihi min ahadin ilaa biidznillahi wayata'allamuuna maa yadhurruhum walaa yanfa'uhum walaqad 'alimuu lamaniisytaraahu maa lahu fii-aakhirati min khalaaqin walabi'sa maa syarau bihi anfusahum lau kaanuu ya'lamuun
+2,Al-Baqarah,103,Walau annahum aamanuu waattaqau lamatsuubatun min 'indillahi khairun lau kaanuu ya'lamuun
+2,Al-Baqarah,104,Yaa ai-yuhaal-ladziina aamanuu laa taquuluu raa'inaa waquuluuunzhurnaa waasma'uu walilkaafiriina 'adzaabun aliimun
+2,Al-Baqarah,105,Maa yawaddul-ladziina kafaruu min ahlil kitaabi walaal musyrikiina an yunazzala 'alaikum min khairin min rabbikum wallahu yakhtash-shu birahmatihi man yasyaa-u wallahu dzuul fadhlil 'azhiim
+2,Al-Baqarah,106,Maa nansakh min aayatin au nunsihaa na'ti bikhairin minhaa au mitslihaa alam ta'lam annallaha 'ala kulli syai-in qadiirun
+2,Al-Baqarah,107,Alam ta'lam annallaha lahu mulkus-samaawaati wal ardhi wamaa lakum min duunillahi min walii-yin walaa nashiirin
+2,Al-Baqarah,108,Am turiiduuna an tasaluu rasuulakum kamaa su-ila muusa min qablu waman yatabaddalil kufra bil-iimaani faqad dhalla sawaa-assabiil
+2,Al-Baqarah,109,Wadda katsiirun min ahlil kitaabi lau yarudduunakum min ba'di iimaanikum kuffaaran hasadan min 'indi anfusihim min ba'di maa tabai-yana lahumul haqqu faa'fuu waashfahuu hatta ya'tiyallahu biamrihi innallaha 'ala kulli syai-in qadiirun
+2,Al-Baqarah,110,Waaqiimuush-shalaata waaatuuzzakaata wamaa tuqaddimuu anfusikum min khairin tajiduuhu 'indallahi innallaha bimaa ta'maluuna bashiirun
+2,Al-Baqarah,111,Waqaaluuu lan yadkhulal jannata ilaa man kaana huudan au nashaara tilka amaanii-yuhum qul haatuu burhaanakum in kuntum shaadiqiin
+2,Al-Baqarah,112,Bala man aslama wajhahu lillahi wahuwa muhsinun falahu ajruhu 'inda rabbihi walaa khaufun 'alaihim walaa hum yahzanuun
+2,Al-Baqarah,113,Waqaalatil yahuudu laisatinnashaara 'ala syai-in waqaalatinnashaara laisatil yahuudu 'ala syai-in wahum yatluunal kitaaba kadzalika qaalal-ladziina laa ya'lamuuna mitsla qaulihim fallahu yahkumu bainahum yaumal qiyaamati fiimaa kaanuu fiihi yakhtalifuun
+2,Al-Baqarah,114,Waman azhlamu mimman mana'a masaajidallahi an yudzkara fiihaaasmuhu wasa'a fii kharaabihaa uula-ika maa kaana lahum an yadkhuluuhaa ilaa khaa-ifiina lahum fiiddunyaa khizyun walahum fii-aakhirati 'adzaabun 'azhiimun
+2,Al-Baqarah,115,Walillahil masyriqu wal maghribu fa-ainamaa tuwalluu fatsamma wajhullahi innallaha waasi'un 'aliimun
+2,Al-Baqarah,116,Waqaaluuuut-takhadzallahu waladan subhaanahu bal lahu maa fiis-samaawaati wal ardhi kullun lahu qaanituun
+2,Al-Baqarah,117,Badii'us-samaawaati wal ardhi wa-idzaa qadha amran fa-innamaa yaquulu lahu kun fayakuun
+2,Al-Baqarah,118,Waqaalal-ladziina laa ya'lamuuna laulaa yukallimunaallahu au ta'tiinaa aayatun kadzalika qaalal-ladziina min qablihim mitsla qaulihim tasyaabahat quluubuhum qad bai-yannaaaayaati liqaumin yuuqinuun
+2,Al-Baqarah,119,Innaa arsalnaaka bil haqqi basyiiran wanadziiran walaa tusalu 'an ashhaabil jahiim
+2,Al-Baqarah,120,Walan tardha 'ankal yahuudu walaannashaara hatta tattabi'a millatahum qul inna hudallahi huwal huda wala-iniittaba'ta ahwaa-ahum ba'dal-ladzii jaa-aka minal 'ilmi maa laka minallahi min walii-yin walaa nashiirin
+2,Al-Baqarah,121,Al-ladziina aatainaahumul kitaaba yatluunahu haqqa tilaawatihi uula-ika yu'minuuna bihi waman yakfur bihi fa-uula-ika humul khaasiruun
+2,Al-Baqarah,122,Yaa banii israa-iilaadzkuruu ni'matiyallatii an'amtu 'alaikum wa-annii fadh-dhaltukum 'alal 'aalamiin
+2,Al-Baqarah,123,Waattaquu yauman laa tajzii nafsun 'an nafsin syai-an walaa yuqbalu minhaa 'adlun walaa tanfa'uhaa syafaa'atun walaa hum yunsharuun
+2,Al-Baqarah,124,Wa-idziibtala ibraahiima rabbuhu bikalimaatin faatammahunna qaala innii jaa'iluka li-nnaasi imaaman qaala wamin dzurrii-yatii qaala laa yanaalu 'ahdiizh-zhaalimiin
+2,Al-Baqarah,125,Wa-idz ja'alnaal baita matsaabatan li-nnaasi waamnan waattakhidzuu min maqaami ibraahiima mushallan wa'ahidnaa ila ibraahiima waismaa'iila an thahhiraa baitiya li-ththaa-ifiina wal 'aakifiina warrukka'issujuud
+2,Al-Baqarah,126,Wa-idz qaala ibraahiimu rabbiij'al hadzaa baladan aaminan waarzuq ahlahu minats-tsamaraati man aamana minhum billahi wal yaumi-aakhiri qaala waman kafara faumatti'uhu qaliilaa tsumma adhtharruhu ila 'adzaabinnaari wabi'sal mashiir
+2,Al-Baqarah,127,Wa-idz yarfa'u ibraahiimul qawaa'ida minal baiti waismaa'iilu rabbanaa taqabbal minnaa innaka antassamii'ul 'aliim
+2,Al-Baqarah,128,Rabbanaa waaj'alnaa muslimaini laka wamin dzurrii-yatinaa ummatan muslimatan laka waarinaa manaasikanaa watub 'alainaa innaka antattau-waabur-rahiim
+2,Al-Baqarah,129,Rabbanaa waab'ats fiihim rasuulaa minhum yatluu 'alaihim aayaatika wayu'allimuhumul kitaaba wal hikmata wayuzakkiihim innaka antal 'aziizul hakiim
+2,Al-Baqarah,130,Waman yarghabu 'an millati ibraahiima ilaa man safiha nafsahu walaqadiish-thafainaahu fiiddunyaa wa-innahu fii-aakhirati laminash-shaalihiin
+2,Al-Baqarah,131,Idz qaala lahu rabbuhu aslim qaala aslamtu lirabbil 'aalamiin
+2,Al-Baqarah,132,Wawash-sha bihaa ibraahiimu baniihi waya'quubu yaa banii-ya innallahaashthafa lakumuddiina falaa tamuutunna ilaa wa-antum muslimuun
+2,Al-Baqarah,133,Am kuntum syuhadaa-a idz hadhara ya'quubal mautu idz qaala libaniihi maa ta'buduuna min ba'dii qaaluuu na'budu ilahaka wailaha aabaa-ika ibraahiima waismaa'iila waishaaqa ilahan waahidan wanahnu lahu muslimuun
+2,Al-Baqarah,134,Tilka ummatun qad khalat lahaa maa kasabat walakum maa kasabtum walaa tusaluuna 'ammaa kaanuu ya'maluun
+2,Al-Baqarah,135,Waqaaluuu kuunuu huudan au nashaara tahtaduu qul bal millata ibraahiima haniifan wamaa kaana minal musyrikiin
+2,Al-Baqarah,136,Quuluu aamannaa billahi wamaa unzila ilainaa wamaa unzila ila ibraahiima waismaa'iila waishaaqa waya'quuba wal asbaathi wamaa uutiya muusa wa'iisa wamaa uutiyannabii-yuuna min rabbihim laa nufarriqu baina ahadin minhum wanahnu lahu muslimuun
+2,Al-Baqarah,137,Fa-in aamanuu bimitsli maa aamantum bihi faqadi ihtadau wa-in tawallau fa-innamaa hum fii syiqaaqin fasayakfiika-humullahu wahuwassamii'ul 'aliim
+2,Al-Baqarah,138,Shibghatallahi waman ahsanu minallahi shibghatan wanahnu lahu 'aabiduun
+2,Al-Baqarah,139,Qul atuhaajjuunanaa fiillahi wahuwa rabbunaa warabbukum walanaa a'maalunaa walakum a'maalukum wanahnu lahu mukhlishuun
+2,Al-Baqarah,140,Am taquuluuna inna ibraahiima waismaa'iila waishaaqa waya'quuba wal asbaatha kaanuu huudan au nashaara qul aantum a'lamu amillahu waman azhlamu mimman katama syahaadatan 'indahu minallahi wamaallahu bighaafilin 'ammaa ta'maluun
+2,Al-Baqarah,141,Tilka ummatun qad khalat lahaa maa kasabat walakum maa kasabtum walaa tusaluuna 'ammaa kaanuu ya'maluun
+2,Al-Baqarah,142,Sayaquulussufahaa-u minannaasi maa walaahum 'an qiblatihimullatii kaanuu 'alaihaa qul lillahil masyriqu wal maghribu yahdii man yasyaa-u ila shiraathin mustaqiimin
+2,Al-Baqarah,143,Wakadzalika ja'alnaakum ummatan wasathan litakuunuu syuhadaa-a 'alannaasi wayakuunarrasuulu 'alaikum syahiidan wamaa ja'alnaal qiblatallatii kunta 'alaihaa ilaa lina'lama man yattabi'urrasuula mimman yanqalibu 'ala 'aqibaihi wa-in kaanat lakabiiratan ilaa 'alaal-ladziina hadallahu wamaa kaanallahu liyudhii'a iimaanakum innallaha binnaasi larauufun rahiimun
+2,Al-Baqarah,144,Qad nara taqalluba wajhika fiissamaa-i falanuwalliyannaka qiblatan tardhaahaa fawalli wajhaka syathral masjidil haraami wahaitsumaa kuntum fawalluu wujuuhakum syathrahu wa-innal-ladziina uutuul kitaaba laya'lamuuna annahul haqqu min rabbihim wamaallahu bighaafilin 'ammaa ya'maluun
+2,Al-Baqarah,145,Wala-in ataital-ladziina uutuul kitaaba bikulli aayatin maa tabi'uu qiblataka wamaa anta bitaabi'in qiblatahum wamaa ba'dhuhum bitaabi'in qiblata ba'dhin wala-iniittaba'ta ahwaa-ahum min ba'di maa jaa-aka minal 'ilmi innaka idzan laminazh-zhaalimiin
+2,Al-Baqarah,146,Al-ladziina aatainaahumul kitaaba ya'rifuunahu kamaa ya'rifuuna abnaa-ahum wa-inna fariiqan minhum layaktumuunal haqqa wahum ya'lamuun
+2,Al-Baqarah,147,Al-haqqu min rabbika falaa takuunanna minal mumtariin
+2,Al-Baqarah,148,Walikullin wijhatun huwa muwalliihaa faastabiquul khairaati ainamaa takuunuu ya'ti bikumullahu jamii'an innallaha 'ala kulli syai-in qadiirun
+2,Al-Baqarah,149,Wamin haitsu kharajta fawalli wajhaka syathral masjidil haraami wa-innahu lalhaqqu min rabbika wamaallahu bighaafilin 'ammaa ta'maluun
+2,Al-Baqarah,150,Wamin haitsu kharajta fawalli wajhaka syathral masjidil haraami wahaitsumaa kuntum fawalluu wujuuhakum syathrahu li-alaa yakuuna li-nnaasi 'alaikum hujjatun ilaal-ladziina zhalamuu minhum falaa takhsyauhum waakhsyaunii wal-atimma ni'matii 'alaikum wala'allakum tahtaduun
+2,Al-Baqarah,151,Kamaa arsalnaa fiikum rasuulaa minkum yatluu 'alaikum aayaatinaa wayuzakkiikum wayu'allimukumul kitaaba wal hikmata wayu'allimukum maa lam takuunuu ta'lamuun
+2,Al-Baqarah,152,Faadzkuruunii adzkurkum waasykuruu lii walaa takfuruun
+2,Al-Baqarah,153,Yaa ai-yuhaal-ladziina aamanuuusta'iinuu bish-shabri wash-shalaati innallaha ma'ash-shaabiriin
+2,Al-Baqarah,154,Walaa taquuluu liman yuqtalu fii sabiilillahi amwaatun bal ahyaa-un walakin laa tasy'uruun
+2,Al-Baqarah,155,Walanabluwannakum bisyai-in minal khaufi wal juu'i wanaqshin minal amwaali wal anfusi wats-tsamaraati wabasy-syirish-shaabiriin
+2,Al-Baqarah,156,Al-ladziina idzaa ashaabathum mushiibatun qaaluuu innaa lillahi wa-innaa ilaihi raaji'uun
+2,Al-Baqarah,157,Uula-ika 'alaihim shalawaatun min rabbihim warahmatun wa-uula-ika humul muhtaduun
+2,Al-Baqarah,158,Innash-shafaa wal marwata min sya'aa-irillahi faman hajjal baita awii'tamara falaa junaaha 'alaihi an yath-thau-wafa bihimaa waman tathau-wa'a khairan fa-innallaha syaakirun 'aliimun
+2,Al-Baqarah,159,Innal-ladziina yaktumuuna maa anzalnaa minal bai-yinaati wal huda min ba'di maa bai-yannaahu li-nnaasi fiil kitaabi uula-ika yal'anuhumullahu wayal'anuhumulaa'inuun
+2,Al-Baqarah,160,Ilaal-ladziina taabuu waashlahuu wabai-yanuu fa-uula-ika atuubu 'alaihim wa-anaattau-waabur-rahiim
+2,Al-Baqarah,161,Innal-ladziina kafaruu wamaatuu wahum kuffaarun uula-ika 'alaihim la'natullahi wal malaa-ikati wannaasi ajma'iin
+2,Al-Baqarah,162,Khaalidiina fiihaa laa yukhaffafu 'anhumul 'adzaabu walaa hum yunzharuun
+2,Al-Baqarah,163,Wailahukum ilahun waahidun laa ilaha ilaa huwar-rahmanur-rahiim
+2,Al-Baqarah,164,Inna fii khalqis-samaawaati wal ardhi waakhtilaafillaili wannahaari wal fulkillatii tajrii fiil bahri bimaa yanfa'unnaasa wamaa anzalallahu minassamaa-i min maa-in faahyaa bihil ardha ba'da mautihaa wabats-tsa fiihaa min kulli daabbatin watashrii-firriyaahi wassahaabil musakh-khari bainassamaa-i wal ardhi li-aayaatin liqaumin ya'qiluun
+2,Al-Baqarah,165,Waminannaasi man yattakhidzu min duunillahi andaadan yuhibbuunahum kahubbillahi waal-ladziina aamanuu asyaddu hubbal(n)-lillahi walau yaraal-ladziina zhalamuu idz yaraunal 'adzaaba annal quu-wata lillahi jamii'an wa-annallaha syadiidul 'adzaab
+2,Al-Baqarah,166,Idz tabarraal-ladziina-attubi'uu minal-ladziina-attaba'uu waraawuul 'adzaaba wataqath-tha'at bihimul asbaab
+2,Al-Baqarah,167,Waqaalal-ladziina-attaba'uu lau anna lanaa karratan fanatabarraa minhum kamaa tabarrauu minnaa kadzalika yuriihimullahu a'maalahum hasaraatin 'alaihim wamaa hum bikhaarijiina minannaar
+2,Al-Baqarah,168,Yaa ai-yuhaannaasu kuluu mimmaa fiil ardhi halaalan thai-yiban walaa tattabi'uu khuthuwaatisy-syaithaani innahu lakum 'aduu-wun mubiinun
+2,Al-Baqarah,169,Innamaa ya'murukum bissuu-i wal fahsyaa-i wa-an taquuluu 'alallahi maa laa ta'lamuun
+2,Al-Baqarah,170,Wa-idzaa qiila lahumuuttabi'uu maa anzalallahu qaaluuu bal nattabi'u maa alfainaa 'alaihi aabaa-anaa awalau kaana aabaa'uhum laa ya'qiluuna syai-an walaa yahtaduun
+2,Al-Baqarah,171,Wamatsalul-ladziina kafaruu kamatsalil-ladzii yan'iqu bimaa laa yasma'u ilaa du'aa-an wanidaa-an shummun bukmun 'umyun fahum laa ya'qiluun
+2,Al-Baqarah,172,Yaa ai-yuhaal-ladziina aamanuu kuluu min thai-yibaati maa razaqnaakum waasykuruu lillahi in kuntum ii-yaahu ta'buduun
+2,Al-Baqarah,173,Innamaa harrama 'alaikumul maitata waddama walahmal khinziiri wamaa uhilla bihi lighairillahi famaniidhthurra ghaira baaghin walaa 'aadin falaa itsma 'alaihi innallaha ghafuurun rahiimun
+2,Al-Baqarah,174,Innal-ladziina yaktumuuna maa anzalallahu minal kitaabi wayasytaruuna bihi tsamanan qaliilaa uula-ika maa ya'kuluuna fii buthuunihim ilaannaara walaa yukallimuhumullahu yaumal qiyaamati walaa yuzakkiihim walahum 'adzaabun aliimun
+2,Al-Baqarah,175,Uula-ikal-ladziinaasy-tarawuudh-dhalaalata bil huda wal 'adzaaba bil maghfirati famaa ashbarahum 'alannaar
+2,Al-Baqarah,176,Dzalika biannallaha nazzalal kitaaba bil haqqi wa-innal-ladziina-akhtalafuu fiil kitaabi lafii syiqaaqin ba'iidin
+2,Al-Baqarah,177,Laisal birra an tuwalluu wujuuhakum qibalal masyriqi wal maghribi walakinnal birra man aamana billahi wal yaumi-aakhiri wal malaa-ikati wal kitaabi wannabii-yiina waaatal maala 'ala hubbihi dzawiil qurba wal yataama wal masaakiina waabnassabiili wassaa-iliina wafiirriqaabi waaqaamash-shalaata waaatazzakaata wal muufuuna bi'ahdihim idzaa 'aahaduu wash-shaabiriina fiil ba'saa-i wadh-dharraa-i wahiinal ba'si uula-ikal-ladziina shadaquu wa-uula-ika humul muttaquun
+2,Al-Baqarah,178,Yaa ai-yuhaal-ladziina aamanuu kutiba 'alaikumul qishaashu fiil qatlal hurru bil hurri wal 'abdu bil 'abdi wal antsa bil antsa faman 'ufiya lahu min akhiihi syayun faattibaa'un bil ma'ruufi waadaa-un ilaihi biihsaanin dzalika takhfiifun min rabbikum warahmatun famanii'tada ba'da dzalika falahu 'adzaabun aliimun
+2,Al-Baqarah,179,Walakum fiil qishaashi hayaatun yaa uuliil albaabi la'allakum tattaquun
+2,Al-Baqarah,180,Kutiba 'alaikum idzaa hadhara ahadakumul mautu in taraka khairanal washii-yatu lilwaalidaini wal aqrabiina bil ma'ruufi haqqan 'alal muttaqiin
+2,Al-Baqarah,181,Faman baddalahu ba'damaa sami'ahu fa-innamaa itsmuhu 'alaal-ladziina yubaddiluunahu innallaha samii'un 'aliimun
+2,Al-Baqarah,182,Faman khaafa min muushin janafan au itsman faashlaha bainahum falaa itsma 'alaihi innallaha ghafuurun rahiimun
+2,Al-Baqarah,183,Yaa ai-yuhaal-ladziina aamanuu kutiba 'alaikumush-shiyaamu kamaa kutiba 'alaal-ladziina min qablikum la'allakum tattaquun
+2,Al-Baqarah,184,Ai-yaaman ma'duudaatin faman kaana minkum mariidhan au 'ala safarin fa'iddatun min ai-yaamin ukhara wa'alaal-ladziina yuthiiquunahu fidyatun tha'aamu miskiinin faman tathau-wa'a khairan fahuwa khairun lahu wa-an tashuumuu khairun lakum in kuntum ta'lamuun
+2,Al-Baqarah,185,Syahru ramadhaanal-ladzii unzila fiihil quraanu hudan li-nnaasi wabai-yinaatin minal huda wal furqaani faman syahida minkumusy-syahra falyashumhu waman kaana mariidhan au 'ala safarin fa'iddatun min ai-yaamin ukhara yuriidullahu bikumul yusra walaa yuriidu bikumul 'usra walitukmiluul 'iddata walitukab-biruullaha 'ala maa hadaakum wala'allakum tasykuruun
+2,Al-Baqarah,186,Wa-idzaa saalaka 'ibaadii 'annii fa-innii qariibun ujiibu da'wataddaa'i idzaa da'aani falyastajiibuu lii walyu'minuu bii la'allahum yarsyuduun
+2,Al-Baqarah,187,Uhilla lakum lailatash-shiyaamirrafatsu ila nisaa-ikum hunna libaasun lakum wa-antum libaasun lahunna 'alimallahu annakum kuntum takhtaanuuna anfusakum fataaba 'alaikum wa'afaa 'ankum fal-aana baasyiruuhunna waabtaghuu maa kataballahu lakum wakuluu waasyrabuu hatta yatabai-yana lakumul khaithul abyadhu minal khaithil aswadi minal fajri tsumma atimmuush-shiyaama ilallaili walaa tubaasyiruuhunna wa-antum 'aakifuuna fiil masaajidi tilka huduudullahi falaa taqrabuuhaa kadzalika yubai-yinullahu aayaatihi li-nnaasi la'allahum yattaquun
+2,Al-Baqarah,188,Walaa ta'kuluu amwaalakum bainakum bil baathili watudluu bihaa ilal hukkaami lita'kuluu fariiqan min amwaalinnaasi bil-itsmi wa-antum ta'lamuun
+2,Al-Baqarah,189,Yasaluunaka 'anil ahillati qul hiya mawaaqiitu li-nnaasi wal hajji walaisal birru bian ta'tuul buyuuta min zhuhuurihaa walakinnal birra maniittaqa wa'tuul buyuuta min abwaabihaa waattaquullaha la'allakum tuflihuun
+2,Al-Baqarah,190,Waqaatiluu fii sabiilillahil-ladziina yuqaatiluunakum walaa ta'taduu innallaha laa yuhibbul mu'tadiin
+2,Al-Baqarah,191,Waaqtuluuhum haitsu tsaqiftumuuhum waakhrijuuhum min haitsu akhrajuukum wal fitnatu asyaddu minal qatli walaa tuqaatiluuhum 'indal masjidil haraami hatta yuqaatiluukum fiihi fa-in qaataluukum faaqtuluuhum kadzalika jazaa-ul kaafiriin
+2,Al-Baqarah,192,Fa-iniintahau fa-innallaha ghafuurun rahiimun
+2,Al-Baqarah,193,Waqaatiluuhum hatta laa takuuna fitnatun wayakuunaddiinu lillahi fa-iniintahau falaa 'udwaana ilaa 'alazh-zhaalimiin
+2,Al-Baqarah,194,Asy-syahrul haraamu bisy-syahril haraami wal hurumaatu qishaashun famanii'tada 'alaikum faa'taduu 'alaihi bimitsli maaa'tada 'alaikum waattaquullaha waa'lamuu annallaha ma'al muttaqiin
+2,Al-Baqarah,195,Wa-anfiquu fii sabiilillahi walaa tulquu biaidiikum ilattahlukati waahsinuu innallaha yuhibbul muhsiniin
+2,Al-Baqarah,196,Waatimmuul hajja wal 'umrata lillahi fa-in uhshirtum famaaastaisara minal hadyi walaa tahliquu ruuusakum hatta yablughal hadyu mahillahu faman kaana minkum mariidhan au bihi adzan min ra'sihi fafidyatun min shiyaamin au shadaqatin au nusukin fa-idzaa amintum faman tamatta'a bil 'umrati ilal hajji famaaastaisara minal hadyi faman lam yajid fashiyaamu tsalaatsati ai-yaamin fiil hajji wasab'atin idzaa raja'tum tilka 'asyaratun kaamilatun dzalika liman lam yakun ahluhu haadhiriil masjidil haraami waattaquullaha waa'lamuu annallaha syadiidul 'iqaab
+2,Al-Baqarah,197,Al-hajju asyhurun ma'luumaatun faman faradha fiihinnal hajja falaa rafatsa walaa fusuuqa walaa jidaala fiil hajji wamaa taf'aluu min khairin ya'lamhullahu watazau-waduu fa-inna khairazzaadittaqwa waattaquuni yaa uuliil albaab
+2,Al-Baqarah,198,Laisa 'alaikum junaahun an tabtaghuu fadhlaa min rabbikum fa-idzaa afadhtum min 'arafaatin faadzkuruullaha 'indal masy'aril haraami waadzkuruuhu kamaa hadaakum wa-in kuntum min qablihi laminadh-dhaalliin
+2,Al-Baqarah,199,Tsumma afiidhuu min haitsu afaadhannaasu waastaghfiruullaha innallaha ghafuurun rahiimun
+2,Al-Baqarah,200,Fa-idzaa qadhaitum manaasikakum faadzkuruullaha kadzikrikum aabaa-akum au asyadda dzikran faminannaasi man yaquulu rabbanaa aatinaa fiiddunyaa wamaa lahu fii-aakhirati min khalaaqin
+2,Al-Baqarah,201,Waminhum man yaquulu rabbanaa aatinaa fiiddunyaa hasanatan wafii-aakhirati hasanatan waqinaa 'adzaabannaar
+78,An-Naba,1,'Amma yatasaa-aluun(a)
+78,An-Naba,2,'Aninnabail 'azhiim(i)
+78,An-Naba,3,Al-ladzii hum fiihi mukhtalifuun(a)
+78,An-Naba,4,Kalaa saya'lamuun(a)
+78,An-Naba,5,Tsumma kalaa saya'lamuun(a)
+78,An-Naba,6,Alam naj'alil ardha mihaadan
+78,An-Naba,7,Wal jibaala autaadan
+78,An-Naba,8,Wakhalaqnaakum azwaajan
+78,An-Naba,9,Waja'alnaa naumakum subaatan
+78,An-Naba,10,Waja'alnaallaila libaasan
+78,An-Naba,11,Waja'alnaannahaara ma'aasyan
+78,An-Naba,12,Wabanainaa fauqakum sab'an syidaadan
+78,An-Naba,13,Waja'alnaa siraajan wahhaajan
+78,An-Naba,14,Wa-anzalnaa minal mu'shiraati maa-an tsajjaajan
+78,An-Naba,15,Linukhrija bihi habban wanabaatan
+78,An-Naba,16,Wajannaatin alfaafan
+78,An-Naba,17,Inna yaumal fashli kaana miiqaatan
+78,An-Naba,18,Yauma yunfakhu fiish-shuuri fata'tuuna afwaajan
+78,An-Naba,19,Wafutihatissamaa-u fakaanat abwaaban
+78,An-Naba,20,Wasui-yiratil jibaalu fakaanat saraaban
+78,An-Naba,21,Inna jahannama kaanat mirshaadan
+78,An-Naba,22,Li-ththaaghiina maaaban
+78,An-Naba,23,Laabitsiina fiihaa ahqaaban
+78,An-Naba,24,Laa yadzuuquuna fiihaa bardan walaa syaraaban
+78,An-Naba,25,Ilaa hamiiman waghassaaqan
+78,An-Naba,26,Jazaa-an wifaaqan
+78,An-Naba,27,Innahum kaanuu laa yarjuuna hisaaban
+78,An-Naba,28,Wakadz-dzabuu biaayaatinaa kidz-dzaaban
+78,An-Naba,29,Wakulla syai-in ahshainaahu kitaaban
+78,An-Naba,30,Fadzuuquu falan naziidakum ilaa 'adzaaban
+78,An-Naba,31,Inna lilmuttaqiina mafaazan
+78,An-Naba,32,Hadaa-iqa wa-a'naaban
+78,An-Naba,33,Wakawaa'iba atraaban
+78,An-Naba,34,Waka'san dihaaqan
+78,An-Naba,35,Laa yasma'uuna fiihaa laghwan walaa kidz-dzaaban
+78,An-Naba,36,Jazaa-an min rabbika 'athaa-an hisaaban
+78,An-Naba,37,Rabbis-samaawaati wal ardhi wamaa bainahumaar-rahmani laa yamlikuuna minhu khithaaban
+78,An-Naba,38,Yauma yaquumur-ruuhu wal malaa-ikatu shaffan laa yatakallamuuna ilaa man adzina lahur-rahmanu waqaala shawaaban
+78,An-Naba,39,Dzalikal yaumul haqqu faman syaa-aattakhadza ila rabbihi maaaban
+78,An-Naba,40,Innaa andzarnaakum 'adzaaban qariiban yauma yanzhurul maru maa qaddamat yadaahu wayaquulul kaafiru yaa laitanii kuntu turaaban
+79,An-Naazi'at,1,Wannaazi'aati gharqan
+79,An-Naazi'at,2,Wannaasyithaati nasythan
+79,An-Naazi'at,3,Wassaabihaati sabhan
+79,An-Naazi'at,4,Fassaabiqaati sabqan
+79,An-Naazi'at,5,Fal mudabbiraati amran
+79,An-Naazi'at,6,Yauma tarjufurraajifat(u)
+79,An-Naazi'at,7,Tatba'uhaarraadifat(u)
+79,An-Naazi'at,8,Quluubun yauma-idzin waajifatun
+79,An-Naazi'at,9,Abshaaruhaa khaasyi'atun
+79,An-Naazi'at,10,Yaquuluuna a-innaa lamarduuduuna fiil haafirat(i)
+79,An-Naazi'at,11,A-idzaa kunnaa 'izhaaman nakhiratan
+79,An-Naazi'at,12,Qaaluuu tilka idzan karratun khaasiratun
+79,An-Naazi'at,13,Fa-innamaa hiya zajratun waahidatun
+79,An-Naazi'at,14,Fa-idzaa hum bissaahirat(i)
+79,An-Naazi'at,15,Hal ataaka hadiitsu muus(a)
+79,An-Naazi'at,16,Idz naadaahu rabbuhu bil waadiil muqaddasi thuwan
+79,An-Naazi'at,17,Adzhab ila fir'auna innahu thagh(a)
+79,An-Naazi'at,18,Faqul hal laka ila an tazakk(a)
+79,An-Naazi'at,19,Wa-ahdiyaka ila rabbika fatakhsy(a)
+79,An-Naazi'at,20,Fa-araahuaayatal kubr(a)
+79,An-Naazi'at,21,Fakadz-dzaba wa'ash(a)
+79,An-Naazi'at,22,Tsumma adbara yas'(a)
+79,An-Naazi'at,23,Fahasyara fanaad(a)
+79,An-Naazi'at,24,Faqaala anaa rabbukumul a'l(a)
+79,An-Naazi'at,25,Fa-akhadzahullahu nakaala-aakhirati wal aul(a)
+79,An-Naazi'at,26,Inna fii dzalika la'ibratan liman yakhsy(a)
+79,An-Naazi'at,27,Aantum asyaddu khalqan amissamaa-u banaahaa
+79,An-Naazi'at,28,Rafa'a samkahaa fasau-waahaa
+79,An-Naazi'at,29,Wa-aghthasya lailahaa wa-akhraja dhuhaahaa
+79,An-Naazi'at,30,Wal ardha ba'da dzalika dahaahaa
+79,An-Naazi'at,31,Akhraja minhaa maa-ahaa wamar'aahaa
+79,An-Naazi'at,32,Wal jibaala arsaahaa
+79,An-Naazi'at,33,Mataa'an lakum wal-an'aamikum
+79,An-Naazi'at,34,Fa-idzaa jaa-atith-thaammatul kubr(a)
+79,An-Naazi'at,35,Yauma yatadzakkaru-insaanu maa sa'(a)
+79,An-Naazi'at,36,Waburrizatil jahiimu liman yar(a)
+79,An-Naazi'at,37,Fa-ammaa man thagh(a)
+79,An-Naazi'at,38,Waaatsaral hayaataddunyaa
+79,An-Naazi'at,39,Fa-innal jahiima hiyal ma'w(a)
+79,An-Naazi'at,40,Wa-ammaa man khaafa maqaama rabbihi wanahannafsa 'anil haw(a)
+79,An-Naazi'at,41,Fa-innal jannata hiyal ma'w(a)
+79,An-Naazi'at,42,Yasaluunaka 'anissaa'ati ai-yaana mursaahaa
+79,An-Naazi'at,43,Fiima anta min dzikraahaa
+79,An-Naazi'at,44,Ila rabbika muntahaahaa
+79,An-Naazi'at,45,Innamaa anta mundziru man yakhsyaahaa
+79,An-Naazi'at,46,Kaannahum yauma yaraunahaa lam yalbatsuu ilaa 'asyii-yatan au dhuhaahaa
+80,'Abasa,1,'Abasa watawall(a)
+80,'Abasa,2,An jaa-ahul a'm(a)
+80,'Abasa,3,Wamaa yudriika la'allahu yazzakk(a)
+80,'Abasa,4,Au yadz-dzakkaru fatanfa'ahudz-dzikr(a)
+80,'Abasa,5,Ammaa maniistaghn(a)
+80,'Abasa,6,Fa-anta lahu tashadd(a)
+80,'Abasa,7,Wamaa 'alaika alaa yazzakk(a)
+80,'Abasa,8,Wa-ammaa man jaa-aka yas'(a)
+80,'Abasa,9,Wahuwa yakhsy(a)
+80,'Abasa,10,Fa-anta 'anhu talahh(a)
+80,'Abasa,11,Kalaa innahaa tadzkiratun
+80,'Abasa,12,Faman syaa-a dzakarah(u)
+80,'Abasa,13,Fii shuhufin mukarramatin
+80,'Abasa,14,Marfuu'atin muthahharatin
+80,'Abasa,15,Biaidii safaratin
+80,'Abasa,16,Kiraamin bararatin
+80,'Abasa,17,Qutila-insaanu maa akfarah(u)
+80,'Abasa,18,Min ai-yi syai-in khalaqah(u)
+80,'Abasa,19,Min nuthfatin khalaqahu faqaddarah(u)
+80,'Abasa,20,Tsummassabiila yassarah(u)
+80,'Abasa,21,Tsumma amaatahu fa-aqbarah(u)
+80,'Abasa,22,Tsumma idzaa syaa-a ansyarah(u)
+80,'Abasa,23,Kalaa lammaa yaqdhi maa amarah(u)
+80,'Abasa,24,Falyanzhuri-insaanu ila tha'aamih(i)
+80,'Abasa,25,Annaa shababnaal maa-a shabban
+80,'Abasa,26,Tsumma syaqaqnaal ardha syaqqan
+80,'Abasa,27,Fa-anbatnaa fiihaa habban
+80,'Abasa,28,Wa'inaban waqadhban
+80,'Abasa,29,Wazaituunan wanakhlaa
+80,'Abasa,30,Wahadaa-iqa ghulban
+80,'Abasa,31,Wafaakihatan wa-abban
+80,'Abasa,32,Mataa'an lakum wal-an'aamikum
+80,'Abasa,33,Fa-idzaa jaa-atish-shaakh-khat(u)
+80,'Abasa,34,Yauma yafirrul maru min akhiih(i)
+80,'Abasa,35,Wa-ummihi wa-abiih(i)
+80,'Abasa,36,Washaahibatihi wabaniih(i)
+80,'Abasa,37,Likulliimri-in minhum yauma-idzin sya'nun yughniih(i)
+80,'Abasa,38,Wujuuhun yauma-idzin musfiratun
+80,'Abasa,39,Dhaahikatun mustabsyiratun
+80,'Abasa,40,Wawujuuhun yauma-idzin 'alaihaa ghabaratun
+80,'Abasa,41,Tarhaquhaa qataratun
+80,'Abasa,42,Uula-ika humul kafaratul fajarat(u)
+81,At-Takwiir,1,Idzaasy-syamsu kuu-wirat
+81,At-Takwiir,2,Wa-idzaan-nujuumuun-kadarat
+81,At-Takwiir,3,Wa-idzaal jibaalu sui-yirat
+81,At-Takwiir,4,Wa-idzaal 'isyaaru 'uth-thilat
+81,At-Takwiir,5,Wa-idzaal wuhuusyu husyirat
+81,At-Takwiir,6,Wa-idzaal bihaaru sujjirat
+81,At-Takwiir,7,Wa-idzaannufuusu zuu-wijat
+81,At-Takwiir,8,Wa-idzaal mawuudatu su-ilat
+81,At-Takwiir,9,Biai-yi dzanbin qutilat
+81,At-Takwiir,10,Wa-idzaash-shuhufu nusyirat
+81,At-Takwiir,11,Wa-idzaassamaa-u kusyithat
+81,At-Takwiir,12,Wa-idzaal jahiimu su'iirat
+81,At-Takwiir,13,Wa-idzaal jannatu uzlifat
+81,At-Takwiir,14,'Alimat nafsun maa ahdharat
+81,At-Takwiir,15,Falaa uqsimu bil khunnas(i)
+81,At-Takwiir,16,Al-jawaaril kunnas(i)
+81,At-Takwiir,17,Wallaili idzaa 'as'as(a)
+81,At-Takwiir,18,Wash-shubhi idzaa tanaffas(a)
+81,At-Takwiir,19,Innahu laqaulu rasuulin kariimin
+81,At-Takwiir,20,Dzii quu-watin 'inda dziil 'arsyi makiinin
+81,At-Takwiir,21,Muthaa'in tsamma amiinin
+81,At-Takwiir,22,Wamaa shaahibukum bimajnuunin
+81,At-Takwiir,23,Walaqad raaahu bil afuqil mubiin(i)
+81,At-Takwiir,24,Wamaa huwa 'alal ghaibi bidhaniinin
+81,At-Takwiir,25,Wamaa huwa biqauli syaithaanin rajiimin
+81,At-Takwiir,26,Fa-aina tadzhabuun(a)
+81,At-Takwiir,27,In huwa ilaa dzikrul(n)-lil'aalamiin(a)
+81,At-Takwiir,28,Liman syaa-a minkum an yastaqiim(a)
+81,At-Takwiir,29,Wamaa tasyaa-uuna ilaa an yasyaa-allahu rabbul 'aalamiin(a)
+82,Al-Infithar,1,Idzaas-samaa-uun fatharat
+82,Al-Infithar,2,Wa-idzaal kawaakibuun tatsarat
+82,Al-Infithar,3,Wa-idzaal bihaaru fujjirat
+82,Al-Infithar,4,Wa-idzaal qubuuru bu' tsirat
+82,Al-Infithar,5,'Alimat nafsun maa qaddamat wa-akh-kharat
+82,Al-Infithar,6,Yaa ai-yuhaa-insaanu maa gharraka birabbikal kariim(i)
+82,Al-Infithar,7,Al-ladzii khalaqaka fasau-waaka fa'adalak(a)
+82,Al-Infithar,8,Fii ai-yi shuuratin maa syaa-a rakkabak(a)
+82,Al-Infithar,9,Kalaa bal tukadz-dzibuuna biddiin(i)
+82,Al-Infithar,10,Wa-inna 'alaikum lahaafizhiin(a)
+82,Al-Infithar,11,Kiraaman kaatibiin(a)
+82,Al-Infithar,12,Ya'lamuuna maa taf'aluun(a)
+82,Al-Infithar,13,Innal abraara lafii na'iimin
+82,Al-Infithar,14,Wa-innal fujjaara lafii jahiimin
+82,Al-Infithar,15,Yashlaunahaa yaumaddiin(i)
+82,Al-Infithar,16,Wamaa hum 'anhaa bighaa-ibiin(a)
+82,Al-Infithar,17,Wamaa adraaka maa yaumuddiin(i)
+82,Al-Infithar,18,Tsumma maa adraaka maa yaumuddiin(i)
+82,Al-Infithar,19,Yauma laa tamliku nafsun linafsin syai-an wal amru yauma-idzil(n)-lillah(i)
+83,Al-Muthaffifin,1,Wailul(n)-lilmuthaffifiin(a)
+83,Al-Muthaffifin,2,Al-ladziina idzaaaktaaluuu 'alannaasi yastaufuun(a)
+83,Al-Muthaffifin,3,Wa-idzaa kaaluuhum au wazanuuhum yukhsiruun(a)
+83,Al-Muthaffifin,4,Alaa yazhunnu uula-ika annahum mab'uutsuun(a)
+83,Al-Muthaffifin,5,Liyaumin 'azhiimin
+83,Al-Muthaffifin,6,Yauma yaquumunnaasu lirabbil 'aalamiin(a)
+83,Al-Muthaffifin,7,Kalaa inna kitaabal fujjaari lafii sijjiinin
+83,Al-Muthaffifin,8,Wamaa adraaka maa sijjiinun
+83,Al-Muthaffifin,9,Kitaabun marquumun
+83,Al-Muthaffifin,10,Wailun yauma-idzil(n)-lilmukadz-dzibiin(a)
+83,Al-Muthaffifin,11,Al-ladziina yukadz-dzibuuna biyaumiddiin(i)
+83,Al-Muthaffifin,12,Wamaa yukadz-dzibu bihi ilaa kullu mu'tadin atsiimin
+83,Al-Muthaffifin,13,Idzaa tutla 'alaihi aayaatunaa qaala asaathiirul au-waliin(a)
+83,Al-Muthaffifin,14,Kalaa bal raana 'ala quluubihim maa kaanuu yaksibuun(a)
+83,Al-Muthaffifin,15,Kalaa innahum 'an rabbihim yauma-idzin lamahjuubuun(a)
+83,Al-Muthaffifin,16,Tsumma innahum lashaaluul jahiim(i)
+83,Al-Muthaffifin,17,Tsumma yuqaalu hadzaal-ladzii kuntum bihi tukadz-dzibuun(a)
+83,Al-Muthaffifin,18,Kalaa inna kitaabal abraari lafii 'illii-yiin(a)
+83,Al-Muthaffifin,19,Wamaa adraaka maa 'illii-yuun(a)
+83,Al-Muthaffifin,20,Kitaabun marquumun
+83,Al-Muthaffifin,21,Yasyhaduhul muqarrabuun(a)
+83,Al-Muthaffifin,22,Innal abraara lafii na'iimin
+83,Al-Muthaffifin,23,'Alal araa-iki yanzhuruun(a)
+83,Al-Muthaffifin,24,Ta'rifu fii wujuuhihim nadhratanna'iim(i)
+83,Al-Muthaffifin,25,Yusqauna min rahiiqin makhtuumin
+83,Al-Muthaffifin,26,Khitaamuhu miskun wafii dzalika falyatanaafasil mutanaafisuun(a)
+83,Al-Muthaffifin,27,Wamizaajuhu min tasniimin
+83,Al-Muthaffifin,28,'Ainan yasyrabu bihaal muqarrabuun(a)
+83,Al-Muthaffifin,29,Innal-ladziina ajramuu kaanuu minal-ladziina aamanuu yadhhakuun(a)
+83,Al-Muthaffifin,30,Wa-idzaa marruu bihim yataghaamazuun(a)
+83,Al-Muthaffifin,31,Wa-idzaaanqalabuu ila ahlihimuunqalabuu fakihiin(a)
+83,Al-Muthaffifin,32,Wa-idzaa ra-auhum qaaluuu inna ha'ulaa-i ladhaalluun(a)
+83,Al-Muthaffifin,33,Wamaa ursiluu 'alaihim haafizhiin(a)
+83,Al-Muthaffifin,34,Fal yaumal-ladziina aamanuu minal kuffaari yadhhakuun(a)
+83,Al-Muthaffifin,35,'Alal araa-iki yanzhuruun(a)
+83,Al-Muthaffifin,36,Hal tsuu-wibal kuffaaru maa kaanuu yaf'aluun(a)
+84,Al-Insyiqaq,1,Idzaas-samaa-uun syaqqat
+84,Al-Insyiqaq,2,Wa-adzinat lirabbihaa wahuqqat
+84,Al-Insyiqaq,3,Wa-idzaal ardhu muddat
+84,Al-Insyiqaq,4,Wa-alqat maa fiihaa watakhallat
+84,Al-Insyiqaq,5,Wa-adzinat lirabbihaa wahuqqat
+84,Al-Insyiqaq,6,Yaa ai-yuhaa-insaanu innaka kaadihun ila rabbika kadhan famulaaqiih(i)
+84,Al-Insyiqaq,7,Fa-ammaa man uutiya kitaabahu biyamiinih(i)
+84,Al-Insyiqaq,8,Fasaufa yuhaasabu hisaaban yasiiran
+84,Al-Insyiqaq,9,Wayanqalibu ila ahlihi masruuran
+84,Al-Insyiqaq,10,Wa-ammaa man uutiya kitaabahu waraa-a zhahrih(i)
+84,Al-Insyiqaq,11,Fasaufa yad'uu tsubuuran
+84,Al-Insyiqaq,12,Wayashla sa'iiran
+84,Al-Insyiqaq,13,Innahu kaana fii ahlihi masruuran
+84,Al-Insyiqaq,14,Innahu zhanna an lan yahuur(a)
+84,Al-Insyiqaq,15,Bala inna rabbahu kaana bihi bashiiran
+84,Al-Insyiqaq,16,Falaa uqsimu bisy-syafaq(i)
+84,Al-Insyiqaq,17,Wallaili wamaa wasaq(a)
+84,Al-Insyiqaq,18,Wal qamari idzaaattasaq(a)
+84,Al-Insyiqaq,19,Latarkabunna thabaqan 'an thabaqin
+84,Al-Insyiqaq,20,Famaa lahum laa yu'minuun(a)
+84,Al-Insyiqaq,21,Wa-idzaa quri-a 'alaihimul quraanu laa yasjuduun(a)
+84,Al-Insyiqaq,22,Balil-ladziina kafaruu yukadz-dzibuun(a)
+84,Al-Insyiqaq,23,Wallahu a'lamu bimaa yuu'uun(a)
+84,Al-Insyiqaq,24,Fabasy-syirhum bi'adzaabin aliimin
+84,Al-Insyiqaq,25,Ilaal-ladziina aamanuu wa'amiluush-shaalihaati lahum ajrun ghairu mamnuunin
+85,Al-Buruuj,1,Wassamaa-i dzaatil buruuj(i)
+85,Al-Buruuj,2,Wal yaumil mau'uud(i)
+85,Al-Buruuj,3,Wasyaahidin wamasyhuudin
+85,Al-Buruuj,4,Qutila ashhaabul akhduud(i)
+85,Al-Buruuj,5,Annaari dzaatil waquud(i)
+85,Al-Buruuj,6,Idz hum 'alaihaa qu'uudun
+85,Al-Buruuj,7,Wahum 'ala maa yaf'aluuna bil mu'miniina syuhuudun
+85,Al-Buruuj,8,Wamaa naqamuu minhum ilaa an yu'minuu billahil 'aziizil hamiid(i)
+85,Al-Buruuj,9,Al-ladzii lahu mulkus-samaawaati wal ardhi wallahu 'ala kulli syai-in syahiidun
+85,Al-Buruuj,10,Innal-ladziina fatanuul mu'miniina wal mu'minaati tsumma lam yatuubuu falahum 'adzaabu jahannama walahum 'adzaabul hariiq(i)
+85,Al-Buruuj,11,Innal-ladziina aamanuu wa'amiluush-shaalihaati lahum jannaatun tajrii min tahtihaal anhaaru dzalikal fauzul kabiir(u)
+85,Al-Buruuj,12,Inna bathsya rabbika lasyadiidun
+85,Al-Buruuj,13,Innahu huwa yubdi-u wayu'iid(u)
+85,Al-Buruuj,14,Wahuwal ghafuurul waduud(u)
+85,Al-Buruuj,15,Dzuul 'arsyil majiid(u)
+85,Al-Buruuj,16,Fa'aaalun limaa yuriid(u)
+85,Al-Buruuj,17,Hal ataaka hadiitsul junuud(i)
+85,Al-Buruuj,18,Fir'auna watsamuud(a)
+85,Al-Buruuj,19,Balil-ladziina kafaruu fii takdziibin
+85,Al-Buruuj,20,Wallahu min waraa-ihim muhiithun
+85,Al-Buruuj,21,Bal huwa quraanun majiidun
+85,Al-Buruuj,22,Fii lauhin mahfuuzhin
+86,Ath-Thariq,1,Wassamaa-i wath-thaariq(i)
+86,Ath-Thariq,2,Wamaa adraaka maath-thaariq(u)
+86,Ath-Thariq,3,Annajmuts-tsaaqib(u)
+86,Ath-Thariq,4,In kullu nafsin lammaa 'alaihaa haafizhun
+86,Ath-Thariq,5,Falyanzhuri-insaanu mimma khuliq(a)
+86,Ath-Thariq,6,Khuliqa min maa-in daafiqin
+86,Ath-Thariq,7,Yakhruju min bainish-shulbi wattaraa-ib(i)
+86,Ath-Thariq,8,Innahu 'ala raj'ihi laqaadirun
+86,Ath-Thariq,9,Yauma tublassaraa-ir(u)
+86,Ath-Thariq,10,Famaa lahu min quu-watin walaa naashirin
+86,Ath-Thariq,11,Wassamaa-i dzaatirraj'(i)
+86,Ath-Thariq,12,Wal ardhi dzaatish-shad'(i)
+86,Ath-Thariq,13,Innahu laqaulun fashlun
+86,Ath-Thariq,14,Wamaa huwa bil hazl(i)
+86,Ath-Thariq,15,Innahum yakiiduuna kaidan
+86,Ath-Thariq,16,Wa-akiidu kaidan
+86,Ath-Thariq,17,Famahhilil kaafiriina amhilhum ruwaidan
+87,AL-A'laa,1,Sabbihiisma rabbikal a'l(a)
+87,AL-A'laa,2,Al-ladzii khalaqa fasau-w(a)
+87,AL-A'laa,3,Waal-ladzii qaddara fahad(a)
+87,AL-A'laa,4,Waal-ladzii akhrajal mar'(a)
+87,AL-A'laa,5,Faja'alahu ghutsaa-an ahw(a)
+87,AL-A'laa,6,Sanuqri-uka falaa tans(a)
+87,AL-A'laa,7,Ilaa maa syaa-allahu innahu ya'lamul jahra wamaa yakhf(a)
+87,AL-A'laa,8,Wanuyassiruka lilyusr(a)
+87,AL-A'laa,9,Fadzakkir in nafa'atidz-dzikr(a)
+87,AL-A'laa,10,Sayadz-dzakkaru man yakhsy(a)
+87,AL-A'laa,11,Wayatajannabuhaal asyq(a)
+87,AL-A'laa,12,Al-ladzii yashlannaaral kubr(a)
+87,AL-A'laa,13,Tsumma laa yamuutu fiihaa walaa yahyaa
+87,AL-A'laa,14,Qad aflaha man tazakk(a)
+87,AL-A'laa,15,Wadzakaraasma rabbihi fashall(a)
+87,AL-A'laa,16,Bal tu'tsiruunal hayaataddunyaa
+87,AL-A'laa,17,Wal-aakhiratu khairun wa-abq(a)
+87,AL-A'laa,18,Inna hadzaa lafiish-shuhufil aul(a)
+87,AL-A'laa,19,Shuhufi ibraahiima wamuus(a)
+88,Al-Ghaasyiah,1,Hal ataaka hadiitsul ghaasyiyat(i)
+88,Al-Ghaasyiah,2,Wujuuhun yauma-idzin khaasyi'atun
+88,Al-Ghaasyiah,3,'Aamilatun naashibatun
+88,Al-Ghaasyiah,4,Tashla naaran haamiyatan
+88,Al-Ghaasyiah,5,Tusqa min 'ainin aaniyatin
+88,Al-Ghaasyiah,6,Laisa lahum tha'aamun ilaa min dharii'in
+88,Al-Ghaasyiah,7,Laa yusminu walaa yughnii min juu'in
+88,Al-Ghaasyiah,8,Wujuuhun yauma-idzin naa'imatun
+88,Al-Ghaasyiah,9,Lisa'yihaa raadhiyatun
+88,Al-Ghaasyiah,10,Fii jannatin 'aaliyatin
+88,Al-Ghaasyiah,11,Laa tasma'u fiihaa laaghiyatan
+88,Al-Ghaasyiah,12,Fiihaa 'ainun jaariyatun
+88,Al-Ghaasyiah,13,Fiihaa sururun marfuu'atun
+88,Al-Ghaasyiah,14,Wa-akwaabun maudhuu'atun
+88,Al-Ghaasyiah,15,Wanamaariqu mashfuufatun
+88,Al-Ghaasyiah,16,Wazaraabii-yu mabtsuutsatun
+88,Al-Ghaasyiah,17,Afalaa yanzhuruuna ila-ibili kaifa khuliqat
+88,Al-Ghaasyiah,18,Wa-ilassamaa-i kaifa rufi'at
+88,Al-Ghaasyiah,19,Wa-ilal jibaali kaifa nushibat
+88,Al-Ghaasyiah,20,Wa-ilal ardhi kaifa suthihat
+88,Al-Ghaasyiah,21,Fadzakkir innamaa anta mudzakkirun
+88,Al-Ghaasyiah,22,Lasta 'alaihim bimushaithirin
+88,Al-Ghaasyiah,23,Ilaa man tawalla wakafar(a)
+88,Al-Ghaasyiah,24,Fayu'adz-dzibuhullahul 'adzaabal akbar(a)
+88,Al-Ghaasyiah,25,Inna ilainaa iyaabahum
+88,Al-Ghaasyiah,26,Tsumma inna 'alainaa hisaabahum
+89,Al-Fajr,1,Wal fajr(i)
+89,Al-Fajr,2,Walayaalin 'asyrin
+89,Al-Fajr,3,Wasy-syaf'i wal watr(i)
+89,Al-Fajr,4,Wallaili idzaa yasr(i)
+89,Al-Fajr,5,Hal fii dzalika qasamun lidzii hijrin
+89,Al-Fajr,6,Alam tara kaifa fa'ala rabbuka bi'aadin
+89,Al-Fajr,7,Irama dzaatil 'imaad(i)
+89,Al-Fajr,8,Allatii lam yukhlaq mitsluhaa fiil bilaad(i)
+89,Al-Fajr,9,Watsamuudal-ladziina jaabuush-shakhra bil waad(i)
+89,Al-Fajr,10,Wafir'auna dziil autaad(i)
+89,Al-Fajr,11,Al-ladziina thaghau fiil bilaad(i)
+89,Al-Fajr,12,Fa-aktsaruu fiihaal fasaad(a)
+89,Al-Fajr,13,Fashabba 'alaihim rabbuka sautha 'adzaabin
+89,Al-Fajr,14,Inna rabbaka labil mirshaad(i)
+89,Al-Fajr,15,Fa-ammaa-insaanu idzaa maaabtalaahu rabbuhu fa-akramahu wana'aamahu fayaquulu rabbii akraman(i)
+89,Al-Fajr,16,Wa-ammaa idzaa maaabtalaahu faqadara 'alaihi rizqahu fayaquulu rabbii ahaanan(i)
+89,Al-Fajr,17,Kalaa bal laa tukrimuunal yatiim(a)
+89,Al-Fajr,18,Walaa tahaadh-dhuuna 'ala tha'aamil miskiin(i)
+89,Al-Fajr,19,Wata'kuluunatturaatsa aklaa lamman
+89,Al-Fajr,20,Watuhibbuunal maala hubban jamman
+89,Al-Fajr,21,Kalaa idzaa dukkatil ardhu dakkan dakkan
+89,Al-Fajr,22,Wajaa-a rabbuka wal malaku shaffan shaffan
+89,Al-Fajr,23,Wajii-a yauma-idzin bijahannama yauma-idzin yatadzakkaru-insaanu wa-anna lahudz-dzikr(a)
+89,Al-Fajr,24,Yaquulu yaa laitanii qaddamtu lihayaatii
+89,Al-Fajr,25,Fayauma-idzin laa yu'adz-dzibu 'adzaabahu ahadun
+89,Al-Fajr,26,Walaa yuutsiqu watsaaqahu ahadun
+89,Al-Fajr,27,Yaa ai-yatuhaannafsul muthma-innat(u)
+89,Al-Fajr,28,Arji'ii ila rabbiki raadhiyatan mardhii-yatan
+89,Al-Fajr,29,Faadkhulii fii 'ibaadii
+89,Al-Fajr,30,Waadkhulii jannatii
+90,Al-Balad,1,Laa uqsimu bihadzaal balad(i)
+90,Al-Balad,2,Wa-anta hillun bihadzaal balad(i)
+90,Al-Balad,3,Wawaalidin wamaa walad(a)
+90,Al-Balad,4,Laqad khalaqnaa-insaana fii kabadin
+90,Al-Balad,5,Ayahsabu an lan yaqdira 'alaihi ahadun
+90,Al-Balad,6,Yaquulu ahlaktu maaalan lubadan
+90,Al-Balad,7,Ayahsabu an lam yarahu ahadun
+90,Al-Balad,8,Alam naj'al lahu 'ainain(i)
+90,Al-Balad,9,Walisaanan wasyafatain(i)
+90,Al-Balad,10,Wahadainaahun-najdain(i)
+90,Al-Balad,11,Falaaaqtahamal 'aqabat(a)
+90,Al-Balad,12,Wamaa adraaka maal 'aqabat(u)
+90,Al-Balad,13,Fakku raqabatin
+90,Al-Balad,14,Au ith'aamun fii yaumin dzii masghabatin
+90,Al-Balad,15,Yatiiman dzaa maqrabatin
+90,Al-Balad,16,Au miskiinan dzaa matrabatin
+90,Al-Balad,17,Tsumma kaana minal-ladziina aamanuu watawaashau bish-shabri watawaashau bil marhamat(i)
+90,Al-Balad,18,Uula-ika ashhaabul maimanat(i)
+90,Al-Balad,19,Waal-ladziina kafaruu biaayaatinaa hum ashhaabul masyamat(i)Waal-ladziina kafaruu biaayaatinaa hum ashhaabul masyamat(i)
+90,Al-Balad,20,'Alaihim naarun mu'shadatun
+91,Asy-Syams,1,Wasy-syamsi wadhuhaahaa
+91,Asy-Syams,2,Wal qamari idzaa talaahaa
+91,Asy-Syams,3,Wannahaari idzaa jalaahaa
+91,Asy-Syams,4,Wallaili idzaa yaghsyaahaa
+91,Asy-Syams,5,Wassamaa-i wamaa banaahaa
+91,Asy-Syams,6,Wal ardhi wamaa thahaahaa
+91,Asy-Syams,7,Wanafsin wamaa sau-waahaa
+91,Asy-Syams,8,Fa-alhamahaa fujuurahaa wataqwaahaa
+91,Asy-Syams,9,Qad aflaha man zakkaahaa
+91,Asy-Syams,10,Waqad khaaba man dassaahaa
+91,Asy-Syams,11,Kadz-dzabat tsamuudu bithaghwaahaa
+91,Asy-Syams,12,Idziinba'atsa asyqaahaa
+91,Asy-Syams,13,Faqaala lahum rasuulullahi naaqatallahi wasuqyaahaa
+91,Asy-Syams,14,Fakadz-dzabuuhu fa'aqaruuhaa fadamdama 'alaihim rabbuhum bidzanbihim fasau-waahaa
+91,Asy-Syams,15,Walaa yakhaafu 'uqbaahaa
+92,Al-Lail,1,Wallaili idzaa yaghsya
+92,Al-Lail,2,Wannahaari idzaa tajalla
+92,Al-Lail,3,Wamaa khalaqadz-dzakara wal antsa
+92,Al-Lail,4,Inna sa'yakum lasyatta
+92,Al-Lail,5,Fa-ammaa man a'tha waattaqa
+92,Al-Lail,6,Washaddaqa bil husna
+92,Al-Lail,7,Fasanuyassiruhu lilyusra
+92,Al-Lail,8,Wa-ammaa man bakhila waastaghna
+92,Al-Lail,9,Wakadz-dzaba bil husna
+92,Al-Lail,10,Fasanuyassiruhu lil'usra
+92,Al-Lail,11,Wamaa yughnii 'anhu maaluhu idzaa taradda
+92,Al-Lail,12,Inna 'alainaa lalhuda
+92,Al-Lail,13,Wa-inna lanaa lal-aakhirata wal aula
+92,Al-Lail,14,Fa-andzartukum naaran talazh-zha
+92,Al-Lail,15,Laa yashlaahaa ilaal asyqa
+92,Al-Lail,16,Al-ladzii kadz-dzaba watawalla
+92,Al-Lail,17,Wasayujannabuhaal atqa
+92,Al-Lail,18,Al-ladzii yu'tii maalahu yatazakka
+92,Al-Lail,19,Wamaa ahadin 'indahu min ni'matin tujza
+92,Al-Lail,20,Ilaaabtighaa-a wajhi rabbihil a'la
+92,Al-Lail,21,Walasaufa yardha
+93,Adh-Dhuhaa,1,Wadh-dhuha
+93,Adh-Dhuhaa,2,Wallaili idzaa saja
+93,Adh-Dhuhaa,3,Maa wadda'aka rabbuka wamaa qala
+93,Adh-Dhuhaa,4,Walal-aakhiratu khairun laka minal aula
+93,Adh-Dhuhaa,5,Walasaufa yu'thiika rabbuka fatardha
+93,Adh-Dhuhaa,6,Alam yajidka yatiiman fa-aawa
+93,Adh-Dhuhaa,7,Wawajadaka dhaaalan fahada
+93,Adh-Dhuhaa,8,Wawajadaka 'aa-ilaa fa-aghna
+93,Adh-Dhuhaa,9,Fa-ammaal yatiima falaa taqhar
+93,Adh-Dhuhaa,10,Wa-ammaassaa-ila falaa tanhar
+93,Adh-Dhuhaa,11,Wa-ammaa bini'mati rabbika fahaddits
+94,Asy-Syarh,1,Alam nasyrah laka shadrak(a)
+94,Asy-Syarh,2,Wawadha'naa 'anka wizrak(a)
+94,Asy-Syarh,3,Al-ladzii anqadha zhahrak(a)
+94,Asy-Syarh,4,Warafa'naa laka dzikrak(a)
+94,Asy-Syarh,5,Fa-inna ma'al 'usri yusran
+94,Asy-Syarh,6,Inna ma'al 'usri yusran
+94,Asy-Syarh,7,Fa-idzaa faraghta faanshab
+94,Asy-Syarh,8,Wa-ila rabbika faarghab
+95,At-Tiin,1,Wattiini wazzaituun(i)
+95,At-Tiin,2,Wathuuri siiniin(a)
+95,At-Tiin,3,Wahadzaal baladil amiin(i)
+95,At-Tiin,4,Laqad khalaqnaa-insaana fii ahsani taqwiim(in)
+95,At-Tiin,5,Tsumma radadnaahu asfala saafiliin(a)
+95,At-Tiin,6,Ilaal-ladziina aamanuu wa'amiluush-shaalihaati falahum ajrun ghairu mamnuun(in)
+95,At-Tiin,7,Famaa yukadz-dzibuka ba'du biddiin(i)
+95,At-Tiin,8,Alaisallahu bi-ahkamil haakimiin(a)
+96,Al-'Alaq,1,Iqra' biismi rabbikal-ladzii khalaq(a)
+96,Al-'Alaq,2,Khalaqa-insaana min 'alaq(in)
+96,Al-'Alaq,3,Iqra' warabbukal akram(u)
+96,Al-'Alaq,4,Al-ladzii 'allama bil qalam(i)
+96,Al-'Alaq,5,'Allama-insaana maa lam ya'lam
+96,Al-'Alaq,6,Kalaa inna-insaana layathgha
+96,Al-'Alaq,7,An ra-aahuustaghna
+96,Al-'Alaq,8,Inna ila rabbikarruj'a
+96,Al-'Alaq,9,Ara-aital-ladzii yanha
+96,Al-'Alaq,10,'Abdan idzaa shalla
+96,Al-'Alaq,11,Ara-aita in kaana 'alal huda
+96,Al-'Alaq,12,Au amara bittaqwa
+96,Al-'Alaq,13,Ara-aita in kadz-dzaba watawalla
+96,Al-'Alaq,14,Alam ya'lam bi-annallaha yara
+96,Al-'Alaq,15,Kalaa la-il(n) lam yantahi lanasfa'an binnaashiyat(i)
+96,Al-'Alaq,16,Naashiyatin kaadzibatin khaathi-atin
+96,Al-'Alaq,17,Falyad'u naadiyahu
+96,Al-'Alaq,18,Sanad'uzzabaaniyata
+96,Al-'Alaq,19,Kalaa laa tuthi'hu waasjud wa-aqtarib
+97,Al-Qadr,1,Innaa anzalnaahu fii lailatil qadr(i)
+97,Al-Qadr,2,Wamaa adraaka maa lailatul qadr(i)
+97,Al-Qadr,3,Lailatul qadri khairum(n) min alfi syahr(in)
+97,Al-Qadr,4,Tanazzalul malaa-ikatu warruuhu fiihaa biidzni rabbihim min kulli amr(in)
+97,Al-Qadr,5,Salaamun hiya hatta mathla'il fajr(i)
+98,Al-Bayyinah,1,Lam yakunil-ladziina kafaruu min ahlil kitaabi wal musyrikiina munfakkiina hatta ta'tiyahumul bai-yinat(u)
+98,Al-Bayyinah,2,Rasuulun minallahi yatluu shuhufan muthahharatan
+98,Al-Bayyinah,3,Fiihaa kutubun qai-yimatun
+98,Al-Bayyinah,4,Wamaa tafarraqal-ladziina uutuul kitaaba ilaa min ba'di maa jaa-athumul bai-yinat(u)
+98,Al-Bayyinah,5,Wamaa umiruu ilaa liya'buduullaha mukhlishiina lahuddiina hunafaa-a wayuqiimuush-shalaata wayu'tuuzzakaata wadzalika diinul qai-yimat(i)
+98,Al-Bayyinah,6,Innal-ladziina kafaruu min ahlil kitaabi wal musyrikiina fii naari jahannama khaalidiina fiihaa uula-ika hum syarrul barii-yat(i)
+98,Al-Bayyinah,7,Innal-ladziina aamanuu wa'amiluush-shaalihaati uula-ika hum khairul barii-yat(i)
+98,Al-Bayyinah,8,Jazaa'uhum 'inda rabbihim jannaatu 'adnin tajrii min tahtihaal anhaaru khaalidiina fiihaa abadan radhiyallahu 'anhum waradhuu 'anhu dzalika liman khasyiya rabbah(u)
+99,Az-Zalzalah,1,Idzaa zulzilatil ardhu zilzaalahaa
+99,Az-Zalzalah,2,Wa-akhrajatil ardhu atsqaalahaa
+99,Az-Zalzalah,3,Waqaala-insaanu maa lahaa
+99,Az-Zalzalah,4,Yauma-idzin tuhadditsu akhbaarahaa
+99,Az-Zalzalah,5,Bianna rabbaka auha lahaa
+99,Az-Zalzalah,6,Yauma-idzin yashdurunnaasu asytaatan liyurau a'maalahum
+99,Az-Zalzalah,7,Faman ya'mal mitsqaala dzarratin khairai(n) yarah(u)
+99,Az-Zalzalah,8,Waman ya'mal mitsqaala dzarratin syarrai(n) yarah(u)
+100,Al-'Aadiyah,1,Wal 'aadiyaati dhabhan
+100,Al-'Aadiyah,2,Fal muuriyaati qadhan
+100,Al-'Aadiyah,3,Fal mughiiraati shubhan
+100,Al-'Aadiyah,4,Fa-atsarna bihi naq'an
+100,Al-'Aadiyah,5,Fawasathna bihi jam'an
+100,Al-'Aadiyah,6,Inna-insaana lirabbihi lakanuudun
+100,Al-'Aadiyah,7,Wa-innahu 'ala dzalika lasyahiidun
+100,Al-'Aadiyah,8,Wa-innahu lihubbil khairi lasyadiidun
+100,Al-'Aadiyah,9,Afalaa ya'lamu idzaa bu' tsira maa fiil qubuur(i)
+100,Al-'Aadiyah,10,Wahush-shila maa fiish-shuduur(i)
+100,Al-'Aadiyah,11,Inna rabbahum bihim yauma-idzin lakhabiirun
+101,Al-Qaari'ah,1,Al-qaari'at(u)
+101,Al-Qaari'ah,2,Maal qaari'at(u)
+101,Al-Qaari'ah,3,Wamaa adraaka maal qaari'at(u)
+101,Al-Qaari'ah,4,Yauma yakuunun-naasu kal faraasyil mabtsuuts(i)
+101,Al-Qaari'ah,5,Watakuunul jibaalu kal 'ihnil manfuusy(i)
+101,Al-Qaari'ah,6,Fa-ammaa man tsaqulat mawaaziinuh(u)
+101,Al-Qaari'ah,7,Fahuwa fii 'iisyatir(n) raadhiyat(in)
+101,Al-Qaari'ah,8,Wa-ammaa man khaffat mawaaziinuh(u)
+101,Al-Qaari'ah,9,Fa-ummuhu haawiyat(un)
+101,Al-Qaari'ah,10,Wamaa adraaka maa hiyah
+101,Al-Qaari'ah,11,Naarun haamiyat(un)
+102,At-Takaatsur,1,Al-haakumut-takaatsur(u)
+102,At-Takaatsur,2,Hatta zurtumul maqaabir(a)
+102,At-Takaatsur,3,Kalaa saufa ta'lamuun(a)
+102,At-Takaatsur,4,Tsumma kalaa saufa ta'lamuun(a)
+102,At-Takaatsur,5,Kalaa lau ta'lamuuna 'ilmal yaqiin(i)
+102,At-Takaatsur,6,Latarawun-nal jahiim(a)
+102,At-Takaatsur,7,Tsumma latarawun-nahaa 'ainal yaqiin(i)
+102,At-Takaatsur,8,Tsumma latus-alun-na yauma-idzin 'anin-na'iim(i)
+103,Al-'Ashar,1,Wal 'ashr(i)
+103,Al-'Ashar,2,Innaal-insaana lafii khusrin
+103,Al-'Ashar,3,Ilaal-ladziina aamanuu wa'amiluush-shaalihaati watawaashau bil haqqi watawaashau bish-shabr(i)
+104,Al-Humazah,1,Wailul(n) likulli humazatil(n) lumazat(in)
+104,Al-Humazah,2,Al-ladzii jama'a maaalau(n) wa'addadah(u)
+104,Al-Humazah,3,Yahsabu anna maalahu akhladah(u)
+104,Al-Humazah,4,Kalaa layunbadzanna fiil huthamat(i)
+104,Al-Humazah,5,Wamaa adraaka maal huthamat(u)
+104,Al-Humazah,6,Naarullahil muuqadat(u)
+104,Al-Humazah,7,Allatii tath-thali'u 'alal af-idat(i)
+104,Al-Humazah,8,Innahaa 'alaihim mu'shadat(un)
+104,Al-Humazah,9,Fii 'amadim(n) mumad-dadat(in)
+105,Al-Fiil,1,Alam tara kaifa fa'ala rabbuka bi-ashhaabil fiil(i)
+105,Al-Fiil,2,Alam yaj'al kaidahum fii tadhliil(in)
+105,Al-Fiil,3,Wa-arsala 'alaihim thairan abaabiil(a)
+105,Al-Fiil,4,Tarmiihim bihijaaratim(n) min sijjiil(in)
+105,Al-Fiil,5,Faja'alahum ka'ashfim(n) ma'kuuli(n)
+106,Al-Quraisy,1,Li-iilaafi quraisyin
+106,Al-Quraisy,2,Iilaafihim rihlatasy-syitaa-i wash-shaif(i)
+106,Al-Quraisy,3,Falya'buduu rabba hadzaal bait(i)
+106,Al-Quraisy,4,Al-ladzii ath'amahum min juu'iu(n) wa-aamanahum min khauf(in)
+107,Al-Maa'uun,1,Ara-aital-ladzii yukadz-dzibu biddiin(i)
+107,Al-Maa'uun,2,Fadzalikal-ladzii yadu'uul yatiim(a)
+107,Al-Maa'uun,3,Walaa yahudh-dhu 'ala tha'aamil miskiin(i)
+107,Al-Maa'uun,4,Fawailul(n)-lilmushalliin(a)
+107,Al-Maa'uun,5,Al-ladziina hum 'an shalaatihim saahuun(a)
+107,Al-Maa'uun,6,Al-ladziina hum yuraa-uun(a)
+107,Al-Maa'uun,7,Wayamna'uunal maa'uun(a)
+108,Al-Kaustar,1,Innaa a'thainaakal kautsar(a)
+108,Al-Kaustar,2,Fashalli lirabbika waanhar
+108,Al-Kaustar,3,Inna syaani-aka huwal abtar(u)
+109,Al-Kafirun,1,Qul yaa ai-yuhaal kaafiruun(a)
+109,Al-Kafirun,2,Laa a'budu maa ta'buduun(a)
+109,Al-Kafirun,3,Walaa antum 'aabiduuna maa a'bud(u)
+109,Al-Kafirun,4,Walaa anaa 'aabidum(n) maa 'abadtum
+109,Al-Kafirun,5,Walaa antum 'aabiduuna maa a'bud(u)
+109,Al-Kafirun,6,Lakum diinukum waliya diin(i)
+110,An-Nashr,1,Idzaa jaa-a nashrullahi wal fath(u)
+110,An-Nashr,2,Wara-aitannaasa yadkhuluuna fii diinillahi afwaaja(n)
+110,An-Nashr,3,Fasabbih bihamdi rabbika waastaghfirhu innahu kaana tau-waaba(n)
+111,Al-Lahab,1,Tabbat yadaa abii lahabiu-watabb(a)
+111,Al-Lahab,2,Maa aghna 'anhu maaluhu wamaa kasab(a)
+111,Al-Lahab,3,Sayashla naaran dzaata lahabiu(n)
+111,Al-Lahab,4,Waamra-atuhu hammaalatal hathab(i)
+111,Al-Lahab,5,Fii jiidihaa hablum(n) mim(n) masad(in)
+112,Al-Ikhlas,1,Qul huwallahu ahad(un)
+112,Al-Ikhlas,2,Allahush-shamad(u)
+112,Al-Ikhlas,3,Lam yalid walam yuulad
+112,Al-Ikhlas,4,Walam yakul(n) lahu kufuwan ahad(un)
+113,Al-Falaq,1,Qul a'uudzu birabbil falaq(i)
+113,Al-Falaq,2,Min syarri maa khalaq(a)
+113,Al-Falaq,3,Wamin syarri ghaasiqin idzaa waqab(a)
+113,Al-Falaq,4,Wamin syarrin-naffaatsaati fiil 'uqad(i)
+113,Al-Falaq,5,Wamin syarri haasidin idzaa hasad(a)
+114,An-Naas,1,Qul a'uudzu birabbin-naas(i)
+114,An-Naas,2,Malikin-naas(i)
+114,An-Naas,3,Ilahin-naas(i)
+114,An-Naas,4,Min syarril waswaasil khan-naas(i)
+114,An-Naas,5,Al-ladzii yuwaswisu fii shuduurin-naas(i)
+114,An-Naas,6,Minal jinnati wan-naas(i)
